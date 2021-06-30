@@ -1,5 +1,5 @@
 Repository with R routines used in the paper:
-**"Estimating the Efficiency of Brazilian Electricity Distribution Utilities"**, Forthcoming at Journal of Applied Statistics.
+**"Estimating the Efficiency of Brazilian Electricity Distribution Utilities"**, Accepted at Journal of Applied Statistics.
 
 All functions and data sets are located in the root directory.
 - **MCMC_Code.R** : Main file containing the MCMC routine; 
